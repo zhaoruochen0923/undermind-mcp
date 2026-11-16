@@ -1,0 +1,15 @@
+{
+  "client_id": "https://cdn.jsdelivr.net/gh/zhaoruochen0923/undermind-mcp@main/client-metadata.json",
+  "client_name": "Undermind Local Bridge",
+  "redirect_uris": [
+    "http://127.0.0.1:3334/oauth/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
